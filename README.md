@@ -9,7 +9,7 @@ DATE FUNCTIONS
 
 CONVERSION FUNCTIONS
 
-- BLANKIFNULL: as a counterpart of ZEROIFNULL. Returns null if its argument is blank string; otherwise, returns its argument.
+- BLANKIFNULL: as a counterpart of ZEROIFNULL. Returns blank string if its argument is NULL; otherwise, returns its argument.
 - NULLIFBLANK: as a counterpart of NULLIFZERO: Returns NULL if the argument is blank string; otherwise, returns the argument.
 
 Feel free to contact me at wfvdijk@gmail.com

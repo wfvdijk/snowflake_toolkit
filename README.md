@@ -1,4 +1,4 @@
-My collection of snowflake additional functions. mostly because I missed this function in Snowflake.
+My collection of snowflake additional functions. mostly because I missed these functions in Snowflake.
 Currently:
 
 DATE FUNCTIONS
